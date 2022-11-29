@@ -11,4 +11,4 @@ I will be updating here as I progress through the sections.
 ### Course 1: Neural Networks and Deep Learning
 #### - > Python Basics with Numpy Lib
 #### - > Logistic Regression as a Neural Network Mindset
-#### - > One Hidden Layer Planar Data Classification - will be updated :) 
+#### - > One Hidden Layer Planar Data Classification - will be updated.
